@@ -1,1 +1,2 @@
-# C/C++
+# Algoritmos e Estruturas de Dados
+# Linguagens C/C++
